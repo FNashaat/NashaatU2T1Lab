@@ -14,7 +14,7 @@ public class RectangleRunner {
         rect2.printPerimeter();
 
 
-        Rectangle rect3 = new Rectangle(9, 3);
+        Rectangle rect3 = new Rectangle(4, 3);
 //rect3.printArea(); // calling a method on the object
         rect3.printPerimeter();
     }
