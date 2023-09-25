@@ -8,7 +8,7 @@ public class Student {
     }
 
     public void greet(){
-        System.out.println("Hello, my name is " + name + " and my height is " + height + " in inches");
+        System.out.println("Hello, my name is " + name + " and my height is " + height + " in inches ");
 
     }
     public void printStudentInfo(){
