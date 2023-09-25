@@ -4,7 +4,7 @@ public class StudentRunner {
         student1.greet();
         student1.printStudentInfo();
 
-        Student student2 = new Student("Phineas", 24);
+        Student student2 = new Student("Ferb", 24);
         student2.greet();
         student2.printStudentInfo();
     }
